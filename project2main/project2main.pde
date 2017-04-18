@@ -246,7 +246,7 @@ void setup(){
   
   language = loadImage("Language.jpg");
   waterusage = loadImage("waterusage.jpg");
-  brightness = loadImage("bright.jpg");
+  brightness = loadImage("Brightness.jpg");
   location = loadImage("Location.jpg");
   
   
